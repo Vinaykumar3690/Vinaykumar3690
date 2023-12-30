@@ -13,6 +13,8 @@
 - 📫 How to reach me : **gelluvinaykumar@gmail.com**
 
 - ⚡ Fun fact **I think iam funny**
+- 👨‍💻 My GitHub is a playground of code where I build and share solutions to make technology work smarter and sim
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
