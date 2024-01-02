@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from India</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif">
+<img align="right" alt="coding" width="400" src="https://drive.google.com/drive/u/0/home">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
