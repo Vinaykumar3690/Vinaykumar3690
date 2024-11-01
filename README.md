@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vinaycodex.web.app/](https://vinaycodex.web.app/)
 
-- 📫 How to reach me : **gelluvinaykumar@gmail.com**
+- 📫 How to reach me : **info.vinaycodex@gmail.com**
 
 - ⚡ Fun fact **I think iam funny**
 - 👨‍💻 My GitHub is a playground of code where I build and share solutions to make technology work smarter and sim
