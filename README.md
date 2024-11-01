@@ -29,5 +29,5 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://razorpay.me/@gelluvinaykumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br>
+<p><a href="https://pages.razorpay.com/pl_OP4cHbOreTWF3Z/view"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br>
 
